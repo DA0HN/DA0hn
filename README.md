@@ -11,8 +11,8 @@
 
 ```javascript
 const da0hn = {
-  code: [Kotlin, Java, Dart, C#, C++, C, Latex, HTML, CSS, Typescript, MySQL],
-  tools: [Springboot, Angular, Flutter, Node, Docker],
+  code: [Kotlin, Java, Dart, C++, C, Latex, Typescript, SQL],
+  tools: [Springboot, Angular, Flutter, Node],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
