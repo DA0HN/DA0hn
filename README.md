@@ -13,7 +13,7 @@
 const da0hn = {
   code: [Kotlin, Java, Dart, Typescript, SQL],
   tools: [Springboot, Angular, Flutter, Node],
-  learning: ["Microservices", "DDD", "Hexagonal Architecture"],
+  learning: ["Microservices", "TDD", "Hexagonal Architecture"],
 }
 ```
 
