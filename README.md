@@ -17,7 +17,15 @@ const da0hn = {
 }
 ```
 
-<p align="left">
-  <a href="https://github.com/DA0HN"><img src="https://github-readme-stats.vercel.app/api?username=DA0HN&hide_border=true&show_icons=true" alt="Gabriel Honda Github Stats"></a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=da0hn&show_icons=true&theme=tokyonight">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0hn&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
+    </td>  
+  </tr>
+ </table>
+
 
