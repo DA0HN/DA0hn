@@ -20,12 +20,12 @@ const da0hn = {
 <table border="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=da0hn&show_icons=true&theme=tokyonight">
+      <img src="https://github-readme-stats.vercel.app/api?username=DA0HN&show_icons=true&theme=tokyonight">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=da0hn&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DA0HN&hide=html,css&langs_count=9&show&theme=tokyonight&layout=compact">
     </td>  
   </tr>
- </table>
+</table>
 
 
