@@ -31,7 +31,7 @@ const da0hn = {
 <table>
   <tr>
     <td>
-      [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DA0HN&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DA0HN&theme=redical" /></a>
     </td>
   </tr>
 </table>
