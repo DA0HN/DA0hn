@@ -11,7 +11,7 @@
 
 ```javascript
 const da0hn = {
-  code: [Kotlin, Java, Dart, Typescript, SQL],
+  code: [Kotlin, Java, Dart, Typescript, SQL, Neo4j],
   tools: [Springboot, Angular, Flutter, Node],
   learning: ["Microservices", "TDD", "Hexagonal Architecture"],
 }
