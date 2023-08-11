@@ -41,7 +41,7 @@ const da0hn = {
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Da0hn Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Da0hn&theme=synthwave-84" /></a>
+      <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Da0hn Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Da0hn&theme=synthwave-84" /></a>
     </td>
   </tr>
 </table>
